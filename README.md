@@ -7,6 +7,8 @@ permalink: /
 Updated 244
 Make Jelly site have a GitBook look!
 
+### THIS MEANS OU CAN EDIT
+
 ## Demo
 
 Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook)
