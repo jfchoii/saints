@@ -4,7 +4,7 @@ title: Jekyll Gitbook Theme
 permalink: /
 ---
 
-Updated 240
+Updated 244
 Make Jelly site have a GitBook look!
 
 ## Demo
